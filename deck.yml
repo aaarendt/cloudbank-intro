@@ -1,0 +1,34 @@
+# Deck metadata and slide order. Format: references/slide-schema.md
+# Only a restricted YAML subset is supported (no trailing comments on a
+# value line). Validate with:
+#   python3 tools/deckparse.py deck deck.yml
+title: "cloudbank-intro"
+audience: "Who this is for"
+# Total talk length in minutes (integer).
+duration: 15
+# presenter: "Name"
+# Quote dates: date: "2026-01-31"
+# Catalog version pin, if the deck uses catalog slides: catalog: v1.0.0
+
+objectives:
+  obj-1: "Gain an understanding of why cloud computing is usefulf for their work"
+  obj-2: "Learn how to use cloudbank to get started with cloud computing"
+
+# Slide order. Each ID needs slides/<id>.md and becomes content/<id>.html.
+slides:
+  - title
+  - why-cloud
+  - what-weve-heard
+  - what-is
+  - research-and-classroom
+  - eligibility
+  - why-choose
+  - award-tiers
+  - by-the-numbers
+  - rule-of-thumb-costs
+  - process
+  - nairr
+  - getting-help
+  - feedback
+  - thank-you
+

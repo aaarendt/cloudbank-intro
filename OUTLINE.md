@@ -22,7 +22,7 @@
 | 11 | process | (catalog slide) | catalog/cb-process |  |  | draft |  |
 | 12 | nairr | (catalog slide) | catalog/cb-nairr |  |  | draft |  |
 | 13 | getting-help | (catalog slide) | catalog/cb-getting-help |  |  | draft |  |
-| 14 | feedback | (catalog slide) | catalog/feedback |  |  | draft |  |
+| 14 | feedback | Session feedback slide with a configurable survey URL | auto |  |  | draft (locked) |  |
 | 15 | thank-you | (catalog slide) | catalog/thank-you |  |  | draft |  |
 
 ## Objectives
